@@ -1,7 +1,7 @@
 import { BrowserRouter } from 'react-router-dom';
 import { Suspense } from 'react';
 import Router from './routes/index.routes';
-
+import './index.css'
 function App() {
   return (
     <BrowserRouter>
